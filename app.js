@@ -26,6 +26,6 @@ const init = async () => {
     } catch (err) {
         console.log(err)
     }
-}
+}   
 
 init()
