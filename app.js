@@ -3,6 +3,7 @@ import { } from 'dotenv/config'
 import routes from './routes/routes.js'
 import connectDB from './db/connect.js'
 import bodyParser from 'body-parser'
+
 import path from 'path'
 
 const app = express()
